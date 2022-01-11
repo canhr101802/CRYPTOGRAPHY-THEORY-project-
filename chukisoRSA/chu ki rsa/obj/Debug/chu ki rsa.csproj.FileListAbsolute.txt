@@ -1,0 +1,44 @@
+D:\c_shap\chu ki rsa\chu ki rsa\bin\Debug\chu ki rsa.exe
+D:\c_shap\chu ki rsa\chu ki rsa\bin\Debug\chu ki rsa.pdb
+D:\c_shap\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.csprojResolveAssemblyReference.cache
+D:\c_shap\chu ki rsa\chu ki rsa\obj\Debug\chu_ki_rsa.Form1.resources
+D:\c_shap\chu ki rsa\chu ki rsa\obj\Debug\chu_ki_rsa.Properties.Resources.resources
+D:\c_shap\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.csproj.GenerateResource.Cache
+D:\c_shap\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.exe
+D:\c_shap\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.pdb
+D:\Canh_nam_3\Lý thuyết mật mã\(Copy of) RSA chu ki dien tu\chu ki rsa\chu ki rsa\bin\Debug\chu ki rsa.exe
+D:\Canh_nam_3\Lý thuyết mật mã\(Copy of) RSA chu ki dien tu\chu ki rsa\chu ki rsa\bin\Debug\chu ki rsa.pdb
+D:\Canh_nam_3\Lý thuyết mật mã\(Copy of) RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.csprojAssemblyReference.cache
+D:\Canh_nam_3\Lý thuyết mật mã\(Copy of) RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Debug\chu_ki_rsa.Form1.resources
+D:\Canh_nam_3\Lý thuyết mật mã\(Copy of) RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Debug\chu_ki_rsa.Properties.Resources.resources
+D:\Canh_nam_3\Lý thuyết mật mã\(Copy of) RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.csproj.GenerateResource.cache
+D:\Canh_nam_3\Lý thuyết mật mã\(Copy of) RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.csproj.CoreCompileInputs.cache
+D:\Canh_nam_3\Lý thuyết mật mã\(Copy of) RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.exe
+D:\Canh_nam_3\Lý thuyết mật mã\(Copy of) RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.pdb
+C:\Users\dell\Downloads\chu ki rsa\chu ki rsa\bin\Debug\chu ki rsa.exe
+C:\Users\dell\Downloads\chu ki rsa\chu ki rsa\bin\Debug\chu ki rsa.pdb
+C:\Users\dell\Downloads\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\chu ki rsa\chu ki rsa\obj\Debug\chu_ki_rsa.Form1.resources
+C:\Users\dell\Downloads\chu ki rsa\chu ki rsa\obj\Debug\chu_ki_rsa.Properties.Resources.resources
+C:\Users\dell\Downloads\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.exe
+C:\Users\dell\Downloads\chu ki rsa\chu ki rsa\obj\Debug\chu ki rsa.pdb
+C:\Users\ADMIN\Downloads\chu ki rsa1\chu ki rsa1\chu ki rsa\bin\Debug\chu ki rsa.exe
+C:\Users\ADMIN\Downloads\chu ki rsa1\chu ki rsa1\chu ki rsa\bin\Debug\chu ki rsa.pdb
+C:\Users\ADMIN\Downloads\chu ki rsa1\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\chu ki rsa1\chu ki rsa1\chu ki rsa\obj\Debug\chu_ki_rsa.Form1.resources
+C:\Users\ADMIN\Downloads\chu ki rsa1\chu ki rsa1\chu ki rsa\obj\Debug\chu_ki_rsa.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\chu ki rsa1\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\chu ki rsa1\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\chu ki rsa1\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.exe
+C:\Users\ADMIN\Downloads\chu ki rsa1\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.pdb
+C:\Users\ADMIN\Downloads\chu ki rsa2\chu ki rsa1\chu ki rsa\bin\Debug\chu ki rsa.exe
+C:\Users\ADMIN\Downloads\chu ki rsa2\chu ki rsa1\chu ki rsa\bin\Debug\chu ki rsa.pdb
+C:\Users\ADMIN\Downloads\chu ki rsa2\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\chu ki rsa2\chu ki rsa1\chu ki rsa\obj\Debug\chu_ki_rsa.Form1.resources
+C:\Users\ADMIN\Downloads\chu ki rsa2\chu ki rsa1\chu ki rsa\obj\Debug\chu_ki_rsa.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\chu ki rsa2\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\chu ki rsa2\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\chu ki rsa2\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.exe
+C:\Users\ADMIN\Downloads\chu ki rsa2\chu ki rsa1\chu ki rsa\obj\Debug\chu ki rsa.pdb
